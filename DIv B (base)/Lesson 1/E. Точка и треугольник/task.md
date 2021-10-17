@@ -1,4 +1,4 @@
-<h1>A. Interactor</h1>
+<h1>E. Точка и треугольник</h1>
 
 <table>
    <tr>
